@@ -3,7 +3,7 @@ Hi 👋 My name is Edgar Yong
 
 Always trying to learn more about programming.
 
-* 🧠  I'm learning C
+* 🧠  I'm learning C++
 
 ### Skills
 
